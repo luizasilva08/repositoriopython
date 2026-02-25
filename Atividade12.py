@@ -8,3 +8,6 @@ for i in range(5):
     lista.append(n)
 
 print(f'A média desses números é {media_lista(lista):.2f}')
+
+
+#alteração
